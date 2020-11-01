@@ -3,7 +3,7 @@ Using ML models to convert text on paper into LaTeX. A H.T.N. 18' Project. Team 
 
 Currently having a high recognition rate on non-mathematical texts & symbols, however we are planning improve the recognition of mathematical syntax in the future.
 
-# DevPost notes from Hack the North 2018:
+# [https://devpost.com/software/photo2tex](DevPost) notes from Hack the North 2018:
 ## Inspiration
 Being university students, we often find it difficult to choose an optimal method of taking notes--handwriting is more conductive for learning, but carrying around only a laptop is far more convenient. So we decided to create something to combine the benefits of both.
 
