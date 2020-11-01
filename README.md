@@ -1,4 +1,4 @@
-# latex-convert
+# Photo2TeX
 Using ML models to convert text on paper into LaTeX. A H.T.N. 18' Project. Team member: Jimmy, Tina, Welson, Andy
 
 Currently having a high recognition rate on non-mathematical texts & symbols, however we are planning improve the recognition of mathematical syntax in the future.
